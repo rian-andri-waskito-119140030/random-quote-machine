@@ -1,7 +1,7 @@
 {
   "name": "quote_random_machine",
   "version": "0.1.0",
- "homepage": "https://rian-andri-waskito-119140030.github.io/random-quote-machine",
+  "homepage": "https://rian-andri-waskito-119140030.github.io/random-quote-machine/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
