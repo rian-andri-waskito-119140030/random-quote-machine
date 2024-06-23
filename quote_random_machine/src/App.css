@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 1em;
+  color: #aaa;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: fit-content;
+}
